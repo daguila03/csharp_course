@@ -1,0 +1,10 @@
+D:\Documentos\C#\Variables\For\bin\Debug\netcoreapp3.0\For.exe
+D:\Documentos\C#\Variables\For\bin\Debug\netcoreapp3.0\For.deps.json
+D:\Documentos\C#\Variables\For\bin\Debug\netcoreapp3.0\For.runtimeconfig.json
+D:\Documentos\C#\Variables\For\bin\Debug\netcoreapp3.0\For.runtimeconfig.dev.json
+D:\Documentos\C#\Variables\For\bin\Debug\netcoreapp3.0\For.dll
+D:\Documentos\C#\Variables\For\bin\Debug\netcoreapp3.0\For.pdb
+D:\Documentos\C#\Variables\For\obj\Debug\netcoreapp3.0\For.AssemblyInfoInputs.cache
+D:\Documentos\C#\Variables\For\obj\Debug\netcoreapp3.0\For.AssemblyInfo.cs
+D:\Documentos\C#\Variables\For\obj\Debug\netcoreapp3.0\For.dll
+D:\Documentos\C#\Variables\For\obj\Debug\netcoreapp3.0\For.pdb

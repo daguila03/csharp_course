@@ -1,0 +1,11 @@
+D:\Documentos\C#\Variables\ClasesYObjetos\bin\Debug\netcoreapp3.0\ClasesYObjetos.exe
+D:\Documentos\C#\Variables\ClasesYObjetos\bin\Debug\netcoreapp3.0\ClasesYObjetos.deps.json
+D:\Documentos\C#\Variables\ClasesYObjetos\bin\Debug\netcoreapp3.0\ClasesYObjetos.runtimeconfig.json
+D:\Documentos\C#\Variables\ClasesYObjetos\bin\Debug\netcoreapp3.0\ClasesYObjetos.runtimeconfig.dev.json
+D:\Documentos\C#\Variables\ClasesYObjetos\bin\Debug\netcoreapp3.0\ClasesYObjetos.dll
+D:\Documentos\C#\Variables\ClasesYObjetos\bin\Debug\netcoreapp3.0\ClasesYObjetos.pdb
+D:\Documentos\C#\Variables\ClasesYObjetos\obj\Debug\netcoreapp3.0\ClasesYObjetos.csprojAssemblyReference.cache
+D:\Documentos\C#\Variables\ClasesYObjetos\obj\Debug\netcoreapp3.0\ClasesYObjetos.AssemblyInfoInputs.cache
+D:\Documentos\C#\Variables\ClasesYObjetos\obj\Debug\netcoreapp3.0\ClasesYObjetos.AssemblyInfo.cs
+D:\Documentos\C#\Variables\ClasesYObjetos\obj\Debug\netcoreapp3.0\ClasesYObjetos.dll
+D:\Documentos\C#\Variables\ClasesYObjetos\obj\Debug\netcoreapp3.0\ClasesYObjetos.pdb

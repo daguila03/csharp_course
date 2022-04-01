@@ -1,0 +1,11 @@
+D:\Documentos\C#\Variables\TiposAnonimos\bin\Debug\netcoreapp3.0\TiposAnonimos.exe
+D:\Documentos\C#\Variables\TiposAnonimos\bin\Debug\netcoreapp3.0\TiposAnonimos.deps.json
+D:\Documentos\C#\Variables\TiposAnonimos\bin\Debug\netcoreapp3.0\TiposAnonimos.runtimeconfig.json
+D:\Documentos\C#\Variables\TiposAnonimos\bin\Debug\netcoreapp3.0\TiposAnonimos.runtimeconfig.dev.json
+D:\Documentos\C#\Variables\TiposAnonimos\bin\Debug\netcoreapp3.0\TiposAnonimos.dll
+D:\Documentos\C#\Variables\TiposAnonimos\bin\Debug\netcoreapp3.0\TiposAnonimos.pdb
+D:\Documentos\C#\Variables\TiposAnonimos\obj\Debug\netcoreapp3.0\TiposAnonimos.csprojAssemblyReference.cache
+D:\Documentos\C#\Variables\TiposAnonimos\obj\Debug\netcoreapp3.0\TiposAnonimos.AssemblyInfoInputs.cache
+D:\Documentos\C#\Variables\TiposAnonimos\obj\Debug\netcoreapp3.0\TiposAnonimos.AssemblyInfo.cs
+D:\Documentos\C#\Variables\TiposAnonimos\obj\Debug\netcoreapp3.0\TiposAnonimos.dll
+D:\Documentos\C#\Variables\TiposAnonimos\obj\Debug\netcoreapp3.0\TiposAnonimos.pdb

@@ -1,0 +1,11 @@
+D:\Documentos\C#\Variables\Funciones\bin\Debug\netcoreapp3.0\Funciones.exe
+D:\Documentos\C#\Variables\Funciones\bin\Debug\netcoreapp3.0\Funciones.deps.json
+D:\Documentos\C#\Variables\Funciones\bin\Debug\netcoreapp3.0\Funciones.runtimeconfig.json
+D:\Documentos\C#\Variables\Funciones\bin\Debug\netcoreapp3.0\Funciones.runtimeconfig.dev.json
+D:\Documentos\C#\Variables\Funciones\bin\Debug\netcoreapp3.0\Funciones.dll
+D:\Documentos\C#\Variables\Funciones\bin\Debug\netcoreapp3.0\Funciones.pdb
+D:\Documentos\C#\Variables\Funciones\obj\Debug\netcoreapp3.0\Funciones.csprojAssemblyReference.cache
+D:\Documentos\C#\Variables\Funciones\obj\Debug\netcoreapp3.0\Funciones.AssemblyInfoInputs.cache
+D:\Documentos\C#\Variables\Funciones\obj\Debug\netcoreapp3.0\Funciones.AssemblyInfo.cs
+D:\Documentos\C#\Variables\Funciones\obj\Debug\netcoreapp3.0\Funciones.dll
+D:\Documentos\C#\Variables\Funciones\obj\Debug\netcoreapp3.0\Funciones.pdb

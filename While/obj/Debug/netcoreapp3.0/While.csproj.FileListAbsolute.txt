@@ -1,0 +1,10 @@
+D:\Documentos\C#\Variables\While\bin\Debug\netcoreapp3.0\While.exe
+D:\Documentos\C#\Variables\While\bin\Debug\netcoreapp3.0\While.deps.json
+D:\Documentos\C#\Variables\While\bin\Debug\netcoreapp3.0\While.runtimeconfig.json
+D:\Documentos\C#\Variables\While\bin\Debug\netcoreapp3.0\While.runtimeconfig.dev.json
+D:\Documentos\C#\Variables\While\bin\Debug\netcoreapp3.0\While.dll
+D:\Documentos\C#\Variables\While\bin\Debug\netcoreapp3.0\While.pdb
+D:\Documentos\C#\Variables\While\obj\Debug\netcoreapp3.0\While.AssemblyInfoInputs.cache
+D:\Documentos\C#\Variables\While\obj\Debug\netcoreapp3.0\While.AssemblyInfo.cs
+D:\Documentos\C#\Variables\While\obj\Debug\netcoreapp3.0\While.dll
+D:\Documentos\C#\Variables\While\obj\Debug\netcoreapp3.0\While.pdb

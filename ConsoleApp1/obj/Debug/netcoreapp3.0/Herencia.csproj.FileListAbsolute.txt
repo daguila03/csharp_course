@@ -1,0 +1,11 @@
+D:\Documentos\C#\Variables\ConsoleApp1\bin\Debug\netcoreapp3.0\Herencia.exe
+D:\Documentos\C#\Variables\ConsoleApp1\bin\Debug\netcoreapp3.0\Herencia.deps.json
+D:\Documentos\C#\Variables\ConsoleApp1\bin\Debug\netcoreapp3.0\Herencia.runtimeconfig.json
+D:\Documentos\C#\Variables\ConsoleApp1\bin\Debug\netcoreapp3.0\Herencia.runtimeconfig.dev.json
+D:\Documentos\C#\Variables\ConsoleApp1\bin\Debug\netcoreapp3.0\Herencia.dll
+D:\Documentos\C#\Variables\ConsoleApp1\bin\Debug\netcoreapp3.0\Herencia.pdb
+D:\Documentos\C#\Variables\ConsoleApp1\obj\Debug\netcoreapp3.0\Herencia.AssemblyInfoInputs.cache
+D:\Documentos\C#\Variables\ConsoleApp1\obj\Debug\netcoreapp3.0\Herencia.AssemblyInfo.cs
+D:\Documentos\C#\Variables\ConsoleApp1\obj\Debug\netcoreapp3.0\Herencia.dll
+D:\Documentos\C#\Variables\ConsoleApp1\obj\Debug\netcoreapp3.0\Herencia.pdb
+D:\Documentos\C#\Variables\ConsoleApp1\obj\Debug\netcoreapp3.0\Herencia.csprojAssemblyReference.cache

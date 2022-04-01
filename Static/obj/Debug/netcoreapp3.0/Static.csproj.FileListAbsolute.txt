@@ -1,0 +1,11 @@
+D:\Documentos\C#\Variables\Static\bin\Debug\netcoreapp3.0\Static.exe
+D:\Documentos\C#\Variables\Static\bin\Debug\netcoreapp3.0\Static.deps.json
+D:\Documentos\C#\Variables\Static\bin\Debug\netcoreapp3.0\Static.runtimeconfig.json
+D:\Documentos\C#\Variables\Static\bin\Debug\netcoreapp3.0\Static.runtimeconfig.dev.json
+D:\Documentos\C#\Variables\Static\bin\Debug\netcoreapp3.0\Static.dll
+D:\Documentos\C#\Variables\Static\bin\Debug\netcoreapp3.0\Static.pdb
+D:\Documentos\C#\Variables\Static\obj\Debug\netcoreapp3.0\Static.csprojAssemblyReference.cache
+D:\Documentos\C#\Variables\Static\obj\Debug\netcoreapp3.0\Static.AssemblyInfoInputs.cache
+D:\Documentos\C#\Variables\Static\obj\Debug\netcoreapp3.0\Static.AssemblyInfo.cs
+D:\Documentos\C#\Variables\Static\obj\Debug\netcoreapp3.0\Static.dll
+D:\Documentos\C#\Variables\Static\obj\Debug\netcoreapp3.0\Static.pdb

@@ -1,0 +1,11 @@
+D:\Documentos\C#\Variables\ForEach\bin\Debug\netcoreapp3.0\ForEach.exe
+D:\Documentos\C#\Variables\ForEach\bin\Debug\netcoreapp3.0\ForEach.deps.json
+D:\Documentos\C#\Variables\ForEach\bin\Debug\netcoreapp3.0\ForEach.runtimeconfig.json
+D:\Documentos\C#\Variables\ForEach\bin\Debug\netcoreapp3.0\ForEach.runtimeconfig.dev.json
+D:\Documentos\C#\Variables\ForEach\bin\Debug\netcoreapp3.0\ForEach.dll
+D:\Documentos\C#\Variables\ForEach\bin\Debug\netcoreapp3.0\ForEach.pdb
+D:\Documentos\C#\Variables\ForEach\obj\Debug\netcoreapp3.0\ForEach.AssemblyInfoInputs.cache
+D:\Documentos\C#\Variables\ForEach\obj\Debug\netcoreapp3.0\ForEach.AssemblyInfo.cs
+D:\Documentos\C#\Variables\ForEach\obj\Debug\netcoreapp3.0\ForEach.dll
+D:\Documentos\C#\Variables\ForEach\obj\Debug\netcoreapp3.0\ForEach.pdb
+D:\Documentos\C#\Variables\ForEach\obj\Debug\netcoreapp3.0\ForEach.csprojAssemblyReference.cache

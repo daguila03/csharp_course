@@ -1,0 +1,11 @@
+D:\Documentos\C#\Variables\Json\bin\Debug\netcoreapp3.0\Json.exe
+D:\Documentos\C#\Variables\Json\bin\Debug\netcoreapp3.0\Json.deps.json
+D:\Documentos\C#\Variables\Json\bin\Debug\netcoreapp3.0\Json.runtimeconfig.json
+D:\Documentos\C#\Variables\Json\bin\Debug\netcoreapp3.0\Json.runtimeconfig.dev.json
+D:\Documentos\C#\Variables\Json\bin\Debug\netcoreapp3.0\Json.dll
+D:\Documentos\C#\Variables\Json\bin\Debug\netcoreapp3.0\Json.pdb
+D:\Documentos\C#\Variables\Json\obj\Debug\netcoreapp3.0\Json.csprojAssemblyReference.cache
+D:\Documentos\C#\Variables\Json\obj\Debug\netcoreapp3.0\Json.AssemblyInfoInputs.cache
+D:\Documentos\C#\Variables\Json\obj\Debug\netcoreapp3.0\Json.AssemblyInfo.cs
+D:\Documentos\C#\Variables\Json\obj\Debug\netcoreapp3.0\Json.dll
+D:\Documentos\C#\Variables\Json\obj\Debug\netcoreapp3.0\Json.pdb

@@ -1,0 +1,11 @@
+D:\Documentos\C#\Variables\Sobrecarga\bin\Debug\netcoreapp3.0\Sobrecarga.exe
+D:\Documentos\C#\Variables\Sobrecarga\bin\Debug\netcoreapp3.0\Sobrecarga.deps.json
+D:\Documentos\C#\Variables\Sobrecarga\bin\Debug\netcoreapp3.0\Sobrecarga.runtimeconfig.json
+D:\Documentos\C#\Variables\Sobrecarga\bin\Debug\netcoreapp3.0\Sobrecarga.runtimeconfig.dev.json
+D:\Documentos\C#\Variables\Sobrecarga\bin\Debug\netcoreapp3.0\Sobrecarga.dll
+D:\Documentos\C#\Variables\Sobrecarga\bin\Debug\netcoreapp3.0\Sobrecarga.pdb
+D:\Documentos\C#\Variables\Sobrecarga\obj\Debug\netcoreapp3.0\Sobrecarga.csprojAssemblyReference.cache
+D:\Documentos\C#\Variables\Sobrecarga\obj\Debug\netcoreapp3.0\Sobrecarga.AssemblyInfoInputs.cache
+D:\Documentos\C#\Variables\Sobrecarga\obj\Debug\netcoreapp3.0\Sobrecarga.AssemblyInfo.cs
+D:\Documentos\C#\Variables\Sobrecarga\obj\Debug\netcoreapp3.0\Sobrecarga.dll
+D:\Documentos\C#\Variables\Sobrecarga\obj\Debug\netcoreapp3.0\Sobrecarga.pdb

@@ -1,0 +1,11 @@
+D:\Documentos\C#\Variables\TipoDeDatos\bin\Debug\netcoreapp3.0\TipoDeDatos.exe
+D:\Documentos\C#\Variables\TipoDeDatos\bin\Debug\netcoreapp3.0\TipoDeDatos.deps.json
+D:\Documentos\C#\Variables\TipoDeDatos\bin\Debug\netcoreapp3.0\TipoDeDatos.runtimeconfig.json
+D:\Documentos\C#\Variables\TipoDeDatos\bin\Debug\netcoreapp3.0\TipoDeDatos.runtimeconfig.dev.json
+D:\Documentos\C#\Variables\TipoDeDatos\bin\Debug\netcoreapp3.0\TipoDeDatos.dll
+D:\Documentos\C#\Variables\TipoDeDatos\bin\Debug\netcoreapp3.0\TipoDeDatos.pdb
+D:\Documentos\C#\Variables\TipoDeDatos\obj\Debug\netcoreapp3.0\TipoDeDatos.csprojAssemblyReference.cache
+D:\Documentos\C#\Variables\TipoDeDatos\obj\Debug\netcoreapp3.0\TipoDeDatos.AssemblyInfoInputs.cache
+D:\Documentos\C#\Variables\TipoDeDatos\obj\Debug\netcoreapp3.0\TipoDeDatos.AssemblyInfo.cs
+D:\Documentos\C#\Variables\TipoDeDatos\obj\Debug\netcoreapp3.0\TipoDeDatos.dll
+D:\Documentos\C#\Variables\TipoDeDatos\obj\Debug\netcoreapp3.0\TipoDeDatos.pdb

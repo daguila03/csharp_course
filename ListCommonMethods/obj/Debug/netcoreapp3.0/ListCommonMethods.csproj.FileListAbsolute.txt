@@ -1,0 +1,10 @@
+D:\Documentos\C#\Variables\ListCommonMethods\bin\Debug\netcoreapp3.0\ListCommonMethods.exe
+D:\Documentos\C#\Variables\ListCommonMethods\bin\Debug\netcoreapp3.0\ListCommonMethods.deps.json
+D:\Documentos\C#\Variables\ListCommonMethods\bin\Debug\netcoreapp3.0\ListCommonMethods.runtimeconfig.json
+D:\Documentos\C#\Variables\ListCommonMethods\bin\Debug\netcoreapp3.0\ListCommonMethods.runtimeconfig.dev.json
+D:\Documentos\C#\Variables\ListCommonMethods\bin\Debug\netcoreapp3.0\ListCommonMethods.dll
+D:\Documentos\C#\Variables\ListCommonMethods\bin\Debug\netcoreapp3.0\ListCommonMethods.pdb
+D:\Documentos\C#\Variables\ListCommonMethods\obj\Debug\netcoreapp3.0\ListCommonMethods.AssemblyInfoInputs.cache
+D:\Documentos\C#\Variables\ListCommonMethods\obj\Debug\netcoreapp3.0\ListCommonMethods.AssemblyInfo.cs
+D:\Documentos\C#\Variables\ListCommonMethods\obj\Debug\netcoreapp3.0\ListCommonMethods.dll
+D:\Documentos\C#\Variables\ListCommonMethods\obj\Debug\netcoreapp3.0\ListCommonMethods.pdb

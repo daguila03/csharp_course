@@ -1,0 +1,11 @@
+D:\Documentos\C#\Variables\Tuplas\bin\Debug\netcoreapp3.0\Tuplas.exe
+D:\Documentos\C#\Variables\Tuplas\bin\Debug\netcoreapp3.0\Tuplas.deps.json
+D:\Documentos\C#\Variables\Tuplas\bin\Debug\netcoreapp3.0\Tuplas.runtimeconfig.json
+D:\Documentos\C#\Variables\Tuplas\bin\Debug\netcoreapp3.0\Tuplas.runtimeconfig.dev.json
+D:\Documentos\C#\Variables\Tuplas\bin\Debug\netcoreapp3.0\Tuplas.dll
+D:\Documentos\C#\Variables\Tuplas\bin\Debug\netcoreapp3.0\Tuplas.pdb
+D:\Documentos\C#\Variables\Tuplas\obj\Debug\netcoreapp3.0\Tuplas.AssemblyInfoInputs.cache
+D:\Documentos\C#\Variables\Tuplas\obj\Debug\netcoreapp3.0\Tuplas.AssemblyInfo.cs
+D:\Documentos\C#\Variables\Tuplas\obj\Debug\netcoreapp3.0\Tuplas.dll
+D:\Documentos\C#\Variables\Tuplas\obj\Debug\netcoreapp3.0\Tuplas.pdb
+D:\Documentos\C#\Variables\Tuplas\obj\Debug\netcoreapp3.0\Tuplas.csprojAssemblyReference.cache

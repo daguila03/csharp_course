@@ -1,0 +1,11 @@
+D:\Documentos\C#\Variables\Generic\bin\Debug\netcoreapp3.0\Generic.exe
+D:\Documentos\C#\Variables\Generic\bin\Debug\netcoreapp3.0\Generic.deps.json
+D:\Documentos\C#\Variables\Generic\bin\Debug\netcoreapp3.0\Generic.runtimeconfig.json
+D:\Documentos\C#\Variables\Generic\bin\Debug\netcoreapp3.0\Generic.runtimeconfig.dev.json
+D:\Documentos\C#\Variables\Generic\bin\Debug\netcoreapp3.0\Generic.dll
+D:\Documentos\C#\Variables\Generic\bin\Debug\netcoreapp3.0\Generic.pdb
+D:\Documentos\C#\Variables\Generic\obj\Debug\netcoreapp3.0\Generic.csprojAssemblyReference.cache
+D:\Documentos\C#\Variables\Generic\obj\Debug\netcoreapp3.0\Generic.AssemblyInfoInputs.cache
+D:\Documentos\C#\Variables\Generic\obj\Debug\netcoreapp3.0\Generic.AssemblyInfo.cs
+D:\Documentos\C#\Variables\Generic\obj\Debug\netcoreapp3.0\Generic.dll
+D:\Documentos\C#\Variables\Generic\obj\Debug\netcoreapp3.0\Generic.pdb
