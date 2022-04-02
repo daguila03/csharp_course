@@ -1,0 +1,10 @@
+D:\Documentos\C#\Variables\ExcepcionesPersonalizadas\bin\Debug\netcoreapp3.0\ExcepcionesPersonalizadas.exe
+D:\Documentos\C#\Variables\ExcepcionesPersonalizadas\bin\Debug\netcoreapp3.0\ExcepcionesPersonalizadas.deps.json
+D:\Documentos\C#\Variables\ExcepcionesPersonalizadas\bin\Debug\netcoreapp3.0\ExcepcionesPersonalizadas.runtimeconfig.json
+D:\Documentos\C#\Variables\ExcepcionesPersonalizadas\bin\Debug\netcoreapp3.0\ExcepcionesPersonalizadas.runtimeconfig.dev.json
+D:\Documentos\C#\Variables\ExcepcionesPersonalizadas\bin\Debug\netcoreapp3.0\ExcepcionesPersonalizadas.dll
+D:\Documentos\C#\Variables\ExcepcionesPersonalizadas\bin\Debug\netcoreapp3.0\ExcepcionesPersonalizadas.pdb
+D:\Documentos\C#\Variables\ExcepcionesPersonalizadas\obj\Debug\netcoreapp3.0\ExcepcionesPersonalizadas.AssemblyInfoInputs.cache
+D:\Documentos\C#\Variables\ExcepcionesPersonalizadas\obj\Debug\netcoreapp3.0\ExcepcionesPersonalizadas.AssemblyInfo.cs
+D:\Documentos\C#\Variables\ExcepcionesPersonalizadas\obj\Debug\netcoreapp3.0\ExcepcionesPersonalizadas.dll
+D:\Documentos\C#\Variables\ExcepcionesPersonalizadas\obj\Debug\netcoreapp3.0\ExcepcionesPersonalizadas.pdb
