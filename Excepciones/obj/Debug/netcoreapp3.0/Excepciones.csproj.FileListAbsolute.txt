@@ -1,0 +1,11 @@
+D:\Documentos\C#\Variables\Excepciones\bin\Debug\netcoreapp3.0\Excepciones.exe
+D:\Documentos\C#\Variables\Excepciones\bin\Debug\netcoreapp3.0\Excepciones.deps.json
+D:\Documentos\C#\Variables\Excepciones\bin\Debug\netcoreapp3.0\Excepciones.runtimeconfig.json
+D:\Documentos\C#\Variables\Excepciones\bin\Debug\netcoreapp3.0\Excepciones.runtimeconfig.dev.json
+D:\Documentos\C#\Variables\Excepciones\bin\Debug\netcoreapp3.0\Excepciones.dll
+D:\Documentos\C#\Variables\Excepciones\bin\Debug\netcoreapp3.0\Excepciones.pdb
+D:\Documentos\C#\Variables\Excepciones\obj\Debug\netcoreapp3.0\Excepciones.csprojAssemblyReference.cache
+D:\Documentos\C#\Variables\Excepciones\obj\Debug\netcoreapp3.0\Excepciones.AssemblyInfoInputs.cache
+D:\Documentos\C#\Variables\Excepciones\obj\Debug\netcoreapp3.0\Excepciones.AssemblyInfo.cs
+D:\Documentos\C#\Variables\Excepciones\obj\Debug\netcoreapp3.0\Excepciones.dll
+D:\Documentos\C#\Variables\Excepciones\obj\Debug\netcoreapp3.0\Excepciones.pdb

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace Excepciones
 {
@@ -6,7 +7,26 @@ namespace Excepciones
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            try
+            {
+                string content = File.ReadAllText(@"C:\Users\Daniel\Desktop\pollo.txt");
+                Console.WriteLine(content);
+
+                string content2 = File.ReadAllText(@"C:\Users\Daniel\Desktop\pollo2.txt");
+                Console.WriteLine(content2);
+                throw new Exception("Ocurrio algo raro");
+            } catch (FileNotFoundException ex)
+            {
+                Console.WriteLine(ex.Message);
+                Console.WriteLine("el archivo no existe");
+            } catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            } finally
+            {
+                Console.WriteLine("Finally");
+            }
+
         }
     }
 }

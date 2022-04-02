@@ -45,9 +45,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListCommonMethods", "ListCo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiposAnonimos", "TiposAnonimos\TiposAnonimos.csproj", "{698D84F4-C309-48B3-A615-557FE5D7681C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuplas", "Tuplas\Tuplas.csproj", "{B91337B9-7934-478A-9918-13A3556F9542}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tuplas", "Tuplas\Tuplas.csproj", "{B91337B9-7934-478A-9918-13A3556F9542}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excepciones", "Excepciones\Excepciones.csproj", "{8421D5ED-112F-4E78-B66D-B93A9997FE08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Excepciones", "Excepciones\Excepciones.csproj", "{8421D5ED-112F-4E78-B66D-B93A9997FE08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcepcionesPersonalizadas", "ExcepcionesPersonalizadas\ExcepcionesPersonalizadas.csproj", "{9B24B4FF-8F6C-4C4E-8546-B6E5293462E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{8421D5ED-112F-4E78-B66D-B93A9997FE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8421D5ED-112F-4E78-B66D-B93A9997FE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8421D5ED-112F-4E78-B66D-B93A9997FE08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B24B4FF-8F6C-4C4E-8546-B6E5293462E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B24B4FF-8F6C-4C4E-8546-B6E5293462E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B24B4FF-8F6C-4C4E-8546-B6E5293462E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B24B4FF-8F6C-4C4E-8546-B6E5293462E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
